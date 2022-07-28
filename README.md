@@ -1,6 +1,6 @@
 ### Hi there! I'm Sara 👋🏻
 
- - 📚 Analysis and development system student at UNESA
+ - 📚 System Analisys and Development at UNESA
  - 😄 Pronouns: She/Her
 
 <div align=center>
