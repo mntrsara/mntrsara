@@ -14,3 +14,9 @@
   <a href="https://github.com/mntrsara">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mntrsara&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+### Projetos em Python
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mntrsara&repo=hangman-game&theme=dark)](https://github.com/mntrsara/hangman-game) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mntrsara&repo=resolvendo-bhaskara&theme=dark)](https://github.com/mntrsara/resolvendo-bhaskara)
+
+### Projetos em TypeScript
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mntrsara&repo=rocket-help&theme=dark)](https://github.com/mntrsara/rocket-help)
