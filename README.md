@@ -1,7 +1,7 @@
-### Hi there! I'm Sara 👋🏻
+### Olá! Eu sou a Sara 👋🏻
 
- - 📚 System Analisys and Development at UNESA
- - 😄 Pronouns: She/Her
+ - 📚 Estudante de Análise e Desenvolvimento de Sistemas na UNESA
+ - 😄 Pronomes: ela/dela
 
 <div align=center>
 
